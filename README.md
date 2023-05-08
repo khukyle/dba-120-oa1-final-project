@@ -1,5 +1,5 @@
-##DBA-120-OA1 Final Project - Music Venue Ticket Sale Database
-###Kyle Hughees
+# DBA-120-OA1 Final Project - Music Venue Ticket Sale Database
+## Kyle Hughees
 
 **Intro**<br>
 We created a database to help a local music venue track its ticket sales and revenue.
