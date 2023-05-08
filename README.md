@@ -15,5 +15,16 @@ Here is the SQL code used to populate the database with records:<br>
 **Insert:** ([insert.sql](insert.sql))
 
 ### Project Part 2
-Using Node.JS I was able to connect to the database and perform CRUD operations.<br><br>
-**CREATE:**<br>
+Using Node.JS I was able to connect to the database and perform CRUD operations.<br>
+Here is the code for the app.js file we created for our operations: ([app.js](app.js))<br>
+
+Using Postman I ran the operations.
+
+#### CREATE:
+**Before:**<br>
+![MySQLBefore](AddRecordMySQLBefore.png)<br>
+<br>
+**Operation:**<br>
+![CreateOperation](AddRecord.png)<br>
+**After:**<br>
+![MySQLAfter](AddRecordMySQLAfter.png)<br>
