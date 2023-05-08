@@ -15,5 +15,5 @@ Here is the SQL code used to populate the database with records:
 **Insert:**<br>([insert.sql](insert.sql))
 
 **Project Part 2**<br>
-Using Node.JS I was able to connect to the database and perform CRUD operations.<br>
-**CREATE:**
+Using Node.JS I was able to connect to the database and perform CRUD operations.<br><br>
+**CREATE:**<br>
