@@ -45,4 +45,6 @@ We can remove records.<br>
 ![RemoveAfter](RemoveRecordAfter.png)<br>
 
 ### Project Part 3
-We deployed our Database to the Cloud using Node.JS and Heroku.
+We deployed our Database to the Cloud using Heroku.<br>
+![HerokuSuccess](HerokuSuccess.png)
+![HerokuSuccess](HerokuSuccess2.png)
