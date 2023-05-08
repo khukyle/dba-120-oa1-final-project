@@ -28,3 +28,12 @@ Using Postman I ran the operations.
 ![CreateOperation](AddRecord.png)<br>
 **After:**<br>
 ![MySQLAfter](AddRecordMySQLAfter.png)<br>
+
+### DESTROY:
+
+**Before:**<br>
+![RemoveBefore](AddRecordMySQLAfter.png)<br>
+**Operation:**<br>
+![RemoveOperation](RemoveRecord.png)<br>
+**After:**<br>
+![RemoveAfter](RemoveRecordAfter.png)<br>
