@@ -21,6 +21,7 @@ Here is the code for the app.js file we created for our operations: ([app.js](ap
 Using Postman I ran the operations.
 
 #### CREATE:
+We can add records.<br>
 **Before:**<br>
 ![MySQLBefore](AddRecordMySQLBefore.png)<br>
 <br>
@@ -29,8 +30,13 @@ Using Postman I ran the operations.
 **After:**<br>
 ![MySQLAfter](AddRecordMySQLAfter.png)<br>
 
-### DESTROY:
+#### READ:
+We can display specified records.<br>
+**Operation:**<br>
+![ReadOperation](ReadRecord.png)<br>
 
+#### DESTROY:
+We can remove records.<br>
 **Before:**<br>
 ![RemoveBefore](AddRecordMySQLAfter.png)<br>
 **Operation:**<br>
