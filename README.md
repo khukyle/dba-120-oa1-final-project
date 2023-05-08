@@ -43,3 +43,6 @@ We can remove records.<br>
 ![RemoveOperation](RemoveRecord.png)<br>
 **After:**<br>
 ![RemoveAfter](RemoveRecordAfter.png)<br>
+
+### Project Part 3
+We deployed our Database to the Cloud using Node.JS and Heroku.
